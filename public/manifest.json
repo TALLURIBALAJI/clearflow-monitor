@@ -1,0 +1,15 @@
+{
+  "short_name": "Water Monitor",
+  "name": "Smart Water Quality Monitor",
+  "icons": [
+    {
+      "src": "/water-drops-icon-2025.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0EA5E9",
+  "background_color": "#ffffff"
+}
